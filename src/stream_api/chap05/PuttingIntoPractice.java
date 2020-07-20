@@ -1,4 +1,4 @@
-package javainaction.chap05;
+package stream_api.chap05;
 
 import java.util.*;
 import java.util.stream.Collectors;
