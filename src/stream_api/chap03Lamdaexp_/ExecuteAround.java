@@ -1,4 +1,4 @@
-package javainaction.chap03Lamdaexp_;
+package stream_api.chap03Lamdaexp_;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
