@@ -1,6 +1,6 @@
-package javainaction.chap03Lamdaexp_;
+package stream_api.chap03Lamdaexp_;
 
-import javainaction.chap01.FilteringApples;
+import stream_api.chap01.FilteringApples;
 
 public class Apple {
     private int weight = 0;
