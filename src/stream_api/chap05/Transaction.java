@@ -1,4 +1,4 @@
-package javainaction.chap05;
+package stream_api.chap05;
 
 public class Transaction {
 
