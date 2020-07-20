@@ -1,12 +1,12 @@
-package javainaction.chap05;
+packagestream_api.chap05;
 
-import javainaction.chap04_streams.Dish;
+import stream_api.chap04_streams.Dish;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
 
-import static javainaction.chap04_streams.Dish.menu;
+import static stream_api.chap04_streams.Dish.menu;
 public class Finding {
 
     public static void main(String[] args) {
