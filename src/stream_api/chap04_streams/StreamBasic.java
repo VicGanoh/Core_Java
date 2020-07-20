@@ -1,4 +1,4 @@
-package javainaction.chap04_streams;
+package stream_api.chap04_streams;
 
 import java.util.ArrayList;
 import java.util.Collections;
