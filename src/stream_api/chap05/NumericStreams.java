@@ -1,7 +1,7 @@
 
-package javainaction.chap05;
+package stream_api.chap05;
 
-import javainaction.chap04_streams.Dish;
+import stream_api.chap04_streams.Dish;
 
 import java.util.Arrays;
 import java.util.List;
@@ -9,7 +9,7 @@ import java.util.OptionalInt;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
-import static javainaction.chap04_streams.Dish.menu;
+import static stream_api.chap04_streams.Dish.menu;
 
 public class NumericStreams {
 
