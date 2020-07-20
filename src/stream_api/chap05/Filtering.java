@@ -1,9 +1,9 @@
-package javainaction.chap05;
+package stream_api.chap05;
 
-import javainaction.chap04_streams.Dish;
+import stream_api.chap04_streams.Dish;
 
 import static java.util.stream.Collectors.toList;
-import static javainaction.chap04_streams.Dish.menu;
+import static stream_api.chap04_streams.Dish.menu;
 
 import java.util.Arrays;
 import java.util.List;
