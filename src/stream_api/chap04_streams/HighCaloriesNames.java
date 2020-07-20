@@ -1,9 +1,9 @@
-package javainaction.chap04_streams;
+package stream_api.chap04_streams;
 
 import java.util.List;
 import java.util.stream.Collectors;
 
-import static javainaction.chap04_streams.Dish.menu;
+import static stream_api.chap04_streams.Dish.menu;
 
 public class HighCaloriesNames {
 
