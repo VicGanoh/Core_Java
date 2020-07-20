@@ -1,4 +1,4 @@
-package javainaction.chap03Lamdaexp_;
+package stream_api.chap03Lamdaexp_;
 
 import java.util.ArrayList;
 import java.util.Arrays;
